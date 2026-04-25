@@ -7,6 +7,6 @@ Public version of my CV, hosted via GitHub Pages.
 
 ## Contents
 
-- [`CV_en.html`](https://cv.alessandrocapelli.com/CV_en.html) — CV in English
-- [`CV_it.html`](https://cv.alessandrocapelli.com/CV_it.html) — CV in Italian
+- [`en.html`](https://cv.alessandrocapelli.com/en.html) — CV in English
+- [`it.html`](https://cv.alessandrocapelli.com/it.html) — CV in Italian
 - `CNAME` — custom domain for GitHub Pages
