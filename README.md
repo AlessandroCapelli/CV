@@ -1,12 +1,13 @@
-# CV — Alessandro Capelli
+# CV: Alessandro Capelli
 
-Public version of my CV, hosted via GitHub Pages.
+Online version of my curriculum vitae, available in two languages.
 
-**Live:** https://cv.alessandrocapelli.com
-**Website:** https://alessandrocapelli.com
+- **English:** <https://cv.alessandrocapelli.com/en.html>
+- **Italiano:** <https://cv.alessandrocapelli.com/it.html>
 
-## Contents
+## Contact
 
-- [`en.html`](https://cv.alessandrocapelli.com/en.html) — CV in English
-- [`it.html`](https://cv.alessandrocapelli.com/it.html) — CV in Italian
-- `CNAME` — custom domain for GitHub Pages
+- **Website:** <https://alessandrocapelli.com>
+- **LinkedIn:** <https://linkedin.com/in/alessandro-capelli>
+- **GitHub:** <https://github.com/AlessandroCapelli>
+- **Email:** <me@alessandrocapelli.com>
